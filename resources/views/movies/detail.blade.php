@@ -107,6 +107,12 @@
                                     @endif
                                 @endforeach
                             </div>
+
+                            <div class="form-group">
+                                <a href="{{ route('login') }}" class="btn btn-outline-dark">
+                                    {{ __('Login') }}
+                                </a>
+                            </div>
                         </div>
                     @else
                         <div class="card-body">
