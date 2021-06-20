@@ -17,11 +17,10 @@
 
 
 # Step Run Project
-    1. npm run dev
-    2. php artisan serve
-    3. php artisan migrate
-    4. php artisan db:seed --class=DatabaseSeeder
-    5. Open link server started
+    1. php artisan serve
+    2. php artisan migrate
+    3. php artisan db:seed --class=DatabaseSeeder
+    4. Open link server started
 
 
 # วิธีใช้งาน
